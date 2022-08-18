@@ -12,19 +12,22 @@ https://github.com/khnemu11/codingOnlyLeetCode
 
 <table>
   <tr>
-    <th>118</th><th>pascals-triangle</th><th>2022-08-19</th>
+    <th>No</th><th>제목</th><th>날짜</th><th>결과</th>
   </tr>
   <tr>
-    <td>445</td><td>assign-cookies</td><td>2022-08-19</td>
+    <td>118</td><td>pascals-triangle</td><td>2022-08-19</td><td>🟢</td>
+  </tr>
+  <tr>
+    <td>445</td><td>assign-cookies</td><td>2022-08-19</td><td>🟢</td>
   </tr>
    <tr>
-    <td>10926</td><td>？？！</td><td>2022-08-19</td>
+    <td>10926</td><td>？？！</td><td>2022-08-19</td><td>🟢</td>
   </tr>
   <tr>
-    <td>2920</td><td>음계</td><td>2022-08-19</td>
+    <td>2920</td><td>음계</td><td>2022-08-19</td><td>🟢</td>
   </tr>
   <tr>
-    <td>4344</td><td>평균은 넘겠지</td><td>2022-08-19</td>
+    <td>4344</td><td>평균은 넘겠지</td><td>2022-08-19</td><td>🟢</td>
   </tr>
 
 </table>
