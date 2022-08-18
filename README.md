@@ -60,7 +60,9 @@ https://github.com/khnemu11/codingOnlyLeetCode
   
     <tr>
     <td>백준</td><td>2455</td><td>지능형 기차</td><td>2022-08-19</td><td>https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2455.%E2%80%85%EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8</td><td> 🟢 </td>
-  </tr>  <tr>
+  </tr>  
+  
+  <tr>
     <td>백준</td><td>2475</td><td>검증수</td><td>2022-08-19</td><td>https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98</td><td> 🟢 </td>
   </tr>  
   <tr>
